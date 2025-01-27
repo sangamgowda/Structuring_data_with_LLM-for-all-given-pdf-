@@ -1,0 +1,2553 @@
+[
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "CONTACT INFORMATION": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "CONTACT INFORMATION": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "2",
+            "Threadlockers": "Thread Sealants",
+            "7 - 9": "10 - 11"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "3",
+            "Threadlockers": "Gasketing Compounds",
+            "7 - 9": "12 - 13"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "4",
+            "Threadlockers": "Retaining Compounds",
+            "7 - 9": "14 - 15"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "5",
+            "Threadlockers": "Instant Adhesives",
+            "7 - 9": "16 - 17"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "6",
+            "Threadlockers": "Hybrid Adhesives",
+            "7 - 9": "18 - 19"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "7",
+            "Threadlockers": "Structural Bonding and Sealing",
+            "7 - 9": "20 - 22"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "8",
+            "Threadlockers": "Polymer Composites & Wearing Compounds",
+            "7 - 9": "23 - 25"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "9",
+            "Threadlockers": "Belt Repair & Urethanes",
+            "7 - 9": "26 - 27"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "10",
+            "Threadlockers": "Protective Coatings",
+            "7 - 9": "28 - 29"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "11",
+            "Threadlockers": "Mould Release Agents",
+            "7 - 9": "30 - 31"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "12",
+            "Threadlockers": "Anti-Seize & Lubricants",
+            "7 - 9": "32 - 33"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "13",
+            "Threadlockers": "Cleaners",
+            "7 - 9": "34 - 35"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "14",
+            "Threadlockers": "Surface Preparation",
+            "7 - 9": "36 - 37"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "1": "15",
+            "Threadlockers": "Others",
+            "7 - 9": "38 - 39"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "THREADLOCKERS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "THREADLOCKERS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "848063",
+        "title": "848063",
+        "description": "848063",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848062",
+        "title": "848062",
+        "description": "848062",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "848065",
+        "title": "848065",
+        "description": "848065",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848066",
+        "title": "848066",
+        "description": "848066",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "2381943",
+        "title": "2381943",
+        "description": "2381943",
+        "price": 27.0,
+        "attributes": {
+            "Pack Size": "0.5 ml",
+            "MRP `": "27"
+        }
+    },
+    {
+        "ID": "1367282",
+        "title": "1367282",
+        "description": "1367282",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "531707",
+        "title": "531707",
+        "description": "531707",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "234174",
+        "title": "234174",
+        "description": "234174",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "12,143"
+        }
+    },
+    {
+        "ID": "531709",
+        "title": "531709",
+        "description": "531709",
+        "price": 971.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "971"
+        }
+    },
+    {
+        "ID": "531704",
+        "title": "531704",
+        "description": "531704",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,267"
+        }
+    },
+    {
+        "ID": "1138282",
+        "title": "1138282",
+        "description": "1138282",
+        "price": null,
+        "attributes": {
+            "Pack Size": "30 g",
+            "MRP `": "7,468"
+        }
+    },
+    {
+        "ID": "1367281",
+        "title": "1367281",
+        "description": "1367281",
+        "price": 973.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "973"
+        }
+    },
+    {
+        "ID": "1511183",
+        "title": "1511183",
+        "description": "1511183",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "848060",
+        "title": "848060",
+        "description": "848060",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848067",
+        "title": "848067",
+        "description": "848067",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "864526",
+        "title": "864526",
+        "description": "864526",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,305"
+        }
+    },
+    {
+        "ID": "864527",
+        "title": "864527",
+        "description": "864527",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,485"
+        }
+    },
+    {
+        "ID": "833787",
+        "title": "833787",
+        "description": "833787",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,766"
+        }
+    },
+    {
+        "ID": "864522",
+        "title": "864522",
+        "description": "864522",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "8,348"
+        }
+    },
+    {
+        "ID": "864523",
+        "title": "864523",
+        "description": "864523",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,719"
+        }
+    },
+    {
+        "ID": "864524",
+        "title": "864524",
+        "description": "864524",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "8,161"
+        }
+    },
+    {
+        "ID": "303440",
+        "title": "303440",
+        "description": "303440",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "2,956"
+        }
+    },
+    {
+        "ID": "531722",
+        "title": "531722",
+        "description": "531722",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "6,718"
+        }
+    },
+    {
+        "ID": "531724",
+        "title": "531724",
+        "description": "531724",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848069",
+        "title": "848069",
+        "description": "848069",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "THREAD SEALANTS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "THREAD SEALANTS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "2382630",
+        "title": "2382630",
+        "description": "2382630",
+        "price": 27.0,
+        "attributes": {
+            "Pack Size": "0.5 ml",
+            "MRP `": "27"
+        }
+    },
+    {
+        "ID": "848735",
+        "title": "848735",
+        "description": "848735",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848736",
+        "title": "848736",
+        "description": "848736",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "2056938",
+        "title": "2056938",
+        "description": "2056938",
+        "price": null,
+        "attributes": {
+            "Pack Size": "160 m",
+            "MRP `": "1,345"
+        }
+    },
+    {
+        "ID": "848737",
+        "title": "848737",
+        "description": "848737",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,544"
+        }
+    },
+    {
+        "ID": "848738",
+        "title": "848738",
+        "description": "848738",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "6,024"
+        }
+    },
+    {
+        "ID": "339604",
+        "title": "339604",
+        "description": "339604",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,477"
+        }
+    },
+    {
+        "ID": "449139",
+        "title": "449139",
+        "description": "449139",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "7,054"
+        }
+    },
+    {
+        "ID": "231701",
+        "title": "231701",
+        "description": "231701",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,462"
+        }
+    },
+    {
+        "ID": "235608",
+        "title": "235608",
+        "description": "235608",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "7,054"
+        }
+    },
+    {
+        "ID": "865324",
+        "title": "865324",
+        "description": "865324",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,366"
+        }
+    },
+    {
+        "ID": "865326",
+        "title": "865326",
+        "description": "865326",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,738"
+        }
+    },
+    {
+        "ID": "848742",
+        "title": "848742",
+        "description": "848742",
+        "price": 922.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "922"
+        }
+    },
+    {
+        "ID": "848741",
+        "title": "848741",
+        "description": "848741",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,263"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "GASKETING COMPOUNDS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "GASKETING COMPOUNDS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "848390",
+        "title": "848390",
+        "description": "848390",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,265"
+        }
+    },
+    {
+        "ID": "848731",
+        "title": "848731",
+        "description": "848731",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,431"
+        }
+    },
+    {
+        "ID": "910888",
+        "title": "910888",
+        "description": "910888",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "6,511"
+        }
+    },
+    {
+        "ID": "833769",
+        "title": "833769",
+        "description": "833769",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,302"
+        }
+    },
+    {
+        "ID": "833770",
+        "title": "833770",
+        "description": "833770",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "5,835"
+        }
+    },
+    {
+        "ID": "848732",
+        "title": "848732",
+        "description": "848732",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,265"
+        }
+    },
+    {
+        "ID": "848733",
+        "title": "848733",
+        "description": "848733",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,703"
+        }
+    },
+    {
+        "ID": "867846",
+        "title": "867846",
+        "description": "867846",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,703"
+        }
+    },
+    {
+        "ID": "849298",
+        "title": "849298",
+        "description": "849298",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,824"
+        }
+    },
+    {
+        "ID": "848739",
+        "title": "848739",
+        "description": "848739",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,572"
+        }
+    },
+    {
+        "ID": "848734",
+        "title": "848734",
+        "description": "848734",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,752"
+        }
+    },
+    {
+        "ID": "1540591",
+        "title": "1540591",
+        "description": "1540591",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 ml",
+            "MRP `": "6,803"
+        }
+    },
+    {
+        "ID": "2374452",
+        "title": "2374452",
+        "description": "2374452",
+        "price": null,
+        "attributes": {
+            "Pack Size": "473 ml",
+            "MRP `": "13,206"
+        }
+    },
+    {
+        "ID": "1266357",
+        "title": "1266357",
+        "description": "1266357",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "3,072"
+        }
+    },
+    {
+        "ID": "1266339",
+        "title": "1266339",
+        "description": "1266339",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "6,399"
+        }
+    },
+    {
+        "ID": "1266356",
+        "title": "1266356",
+        "description": "1266356",
+        "price": 987.0,
+        "attributes": {
+            "Pack Size": "95 g",
+            "MRP `": "987"
+        }
+    },
+    {
+        "ID": "1246389",
+        "title": "1246389",
+        "description": "1246389",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "3,299"
+        }
+    },
+    {
+        "ID": "1827919",
+        "title": "1827919",
+        "description": "1827919",
+        "price": 904.0,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "904"
+        }
+    },
+    {
+        "ID": "1257126",
+        "title": "1257126",
+        "description": "1257126",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "6,506"
+        }
+    },
+    {
+        "ID": "231232",
+        "title": "231232",
+        "description": "231232",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "6,041"
+        }
+    },
+    {
+        "ID": "235479",
+        "title": "235479",
+        "description": "235479",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "4,437"
+        }
+    },
+    {
+        "ID": "317667",
+        "title": "317667",
+        "description": "317667",
+        "price": null,
+        "attributes": {
+            "Pack Size": "300 ml",
+            "MRP `": "1,474"
+        }
+    },
+    {
+        "ID": "231017",
+        "title": "231017",
+        "description": "231017",
+        "price": null,
+        "attributes": {
+            "Pack Size": "850 ml",
+            "MRP `": "35,698"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "RETAINING COMPOUNDS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "RETAINING COMPOUNDS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "865328",
+        "title": "865328",
+        "description": "865328",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,353"
+        }
+    },
+    {
+        "ID": "1712323",
+        "title": "1712323",
+        "description": "1712323",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "6,762"
+        }
+    },
+    {
+        "ID": "848744",
+        "title": "848744",
+        "description": "848744",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848745",
+        "title": "848745",
+        "description": "848745",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "865329",
+        "title": "865329",
+        "description": "865329",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,674"
+        }
+    },
+    {
+        "ID": "865351",
+        "title": "865351",
+        "description": "865351",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "6,303"
+        }
+    },
+    {
+        "ID": "2382498",
+        "title": "2382498",
+        "description": "2382498",
+        "price": 27.0,
+        "attributes": {
+            "Pack Size": "0.5 ml",
+            "MRP `": "27"
+        }
+    },
+    {
+        "ID": "1865160",
+        "title": "1865160",
+        "description": "1865160",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "1865048",
+        "title": "1865048",
+        "description": "1865048",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "848748",
+        "title": "848748",
+        "description": "848748",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,164"
+        }
+    },
+    {
+        "ID": "848749",
+        "title": "848749",
+        "description": "848749",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,846"
+        }
+    },
+    {
+        "ID": "848752",
+        "title": "848752",
+        "description": "848752",
+        "price": 972.0,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "972"
+        }
+    },
+    {
+        "ID": "848750",
+        "title": "848750",
+        "description": "848750",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "4,480"
+        }
+    },
+    {
+        "ID": "1865163",
+        "title": "1865163",
+        "description": "1865163",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,283"
+        }
+    },
+    {
+        "ID": "1865164",
+        "title": "1865164",
+        "description": "1865164",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "5,846"
+        }
+    },
+    {
+        "ID": "231699",
+        "title": "231699",
+        "description": "231699",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,619"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "INSTANT ADHESIVES": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "INSTANT ADHESIVES": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "1669715",
+        "title": "1669715",
+        "description": "1669715",
+        "price": 667.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "667"
+        }
+    },
+    {
+        "ID": "2714623",
+        "title": "2714623",
+        "description": "2714623",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "1,495"
+        }
+    },
+    {
+        "ID": "1669713",
+        "title": "1669713",
+        "description": "1669713",
+        "price": 563.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "563"
+        }
+    },
+    {
+        "ID": "817793",
+        "title": "817793",
+        "description": "817793",
+        "price": 795.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "795"
+        }
+    },
+    {
+        "ID": "848003",
+        "title": "848003",
+        "description": "848003",
+        "price": 637.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "637"
+        }
+    },
+    {
+        "ID": "135461",
+        "title": "135461",
+        "description": "135461",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "2,081"
+        }
+    },
+    {
+        "ID": "281284",
+        "title": "281284",
+        "description": "281284",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "1,918"
+        }
+    },
+    {
+        "ID": "1669711",
+        "title": "1669711",
+        "description": "1669711",
+        "price": 563.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "563"
+        }
+    },
+    {
+        "ID": "234156",
+        "title": "234156",
+        "description": "234156",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 oz",
+            "MRP `": "3,032"
+        }
+    },
+    {
+        "ID": "302672",
+        "title": "302672",
+        "description": "302672",
+        "price": 522.0,
+        "attributes": {
+            "Pack Size": "20 g",
+            "MRP `": "522"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "HYBRID ADHESIVES": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "HYBRID ADHESIVES": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "2210487",
+        "title": "2210487",
+        "description": "2210487",
+        "price": null,
+        "attributes": {
+            "Pack Size": "25 g",
+            "MRP `": "1,186"
+        }
+    },
+    {
+        "ID": "2143579",
+        "title": "2143579",
+        "description": "2143579",
+        "price": null,
+        "attributes": {
+            "Pack Size": "11 g",
+            "MRP `": "1,445"
+        }
+    },
+    {
+        "ID": "2154935",
+        "title": "2154935",
+        "description": "2154935",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 g",
+            "MRP `": "1,513"
+        }
+    },
+    {
+        "ID": "2123342",
+        "title": "2123342",
+        "description": "2123342",
+        "price": null,
+        "attributes": {
+            "Pack Size": "400 g",
+            "MRP `": "9,797"
+        }
+    },
+    {
+        "ID": "2123344",
+        "title": "2123344",
+        "description": "2123344",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 g",
+            "MRP `": "1,983"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "STRUCTURAL BONDING AND SEALING": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "STRUCTURAL BONDING AND SEALING": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "847577",
+        "title": "847577",
+        "description": "847577",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,527"
+        }
+    },
+    {
+        "ID": "847578",
+        "title": "847578",
+        "description": "847578",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "7,139"
+        }
+    },
+    {
+        "ID": "231560",
+        "title": "231560",
+        "description": "231560",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "1,992"
+        }
+    },
+    {
+        "ID": "847579",
+        "title": "847579",
+        "description": "847579",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "2,213"
+        }
+    },
+    {
+        "ID": "848070",
+        "title": "848070",
+        "description": "848070",
+        "price": null,
+        "attributes": {
+            "Pack Size": "250 ml",
+            "MRP `": "9,750"
+        }
+    },
+    {
+        "ID": "237095",
+        "title": "237095",
+        "description": "237095",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "3,951"
+        }
+    },
+    {
+        "ID": "2312279",
+        "title": "2312279",
+        "description": "2312279",
+        "price": 888.0,
+        "attributes": {
+            "Pack Size": "440 g",
+            "MRP `": "888"
+        }
+    },
+    {
+        "ID": "2320065",
+        "title": "2320065",
+        "description": "2320065",
+        "price": null,
+        "attributes": {
+            "Pack Size": "2.22 kg",
+            "MRP `": "3,969"
+        }
+    },
+    {
+        "ID": "2320521",
+        "title": "2320521",
+        "description": "2320521",
+        "price": 619.0,
+        "attributes": {
+            "Pack Size": "550 g",
+            "MRP `": "619"
+        }
+    },
+    {
+        "ID": "2320524",
+        "title": "2320524",
+        "description": "2320524",
+        "price": null,
+        "attributes": {
+            "Pack Size": "2.78 kg",
+            "MRP `": "2,870"
+        }
+    },
+    {
+        "ID": "237130",
+        "title": "237130",
+        "description": "237130",
+        "price": null,
+        "attributes": {
+            "Pack Size": "400 ml",
+            "MRP `": "22,238"
+        }
+    },
+    {
+        "ID": "237116",
+        "title": "237116",
+        "description": "237116",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "3,437"
+        }
+    },
+    {
+        "ID": "219298",
+        "title": "219298",
+        "description": "219298",
+        "price": null,
+        "attributes": {
+            "Pack Size": "50 ml",
+            "MRP `": "4,379"
+        }
+    },
+    {
+        "ID": "1656500",
+        "title": "1656500",
+        "description": "1656500",
+        "price": null,
+        "attributes": {
+            "Pack Size": "310 ml",
+            "MRP `": "1,590"
+        }
+    },
+    {
+        "ID": "1656499",
+        "title": "1656499",
+        "description": "1656499",
+        "price": null,
+        "attributes": {
+            "Pack Size": "310 ml",
+            "MRP `": "1,587"
+        }
+    },
+    {
+        "ID": "2496672",
+        "title": "2496672",
+        "description": "2496672",
+        "price": null,
+        "attributes": {
+            "Pack Size": "570 ml",
+            "MRP `": "1,972"
+        }
+    },
+    {
+        "ID": "2496649",
+        "title": "2496649",
+        "description": "2496649",
+        "price": null,
+        "attributes": {
+            "Pack Size": "570 ml",
+            "MRP `": "1,972"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "Price List\nEffective from 01.07.2022": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "Price List\nEffective from 01.07.2022": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "POLYMER COMPOSITES & WEARING COMPOUNDS": null,
+            "null": "None    NDS\nNone       \nNone       \nNone       \nNone       \nNone       \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "POLYMER COMPOSITES & WEARING COMPOUNDS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "235579",
+        "title": "235579",
+        "description": "235579",
+        "price": null,
+        "attributes": {
+            "Pack Size": "226 g",
+            "MRP `": "17,327"
+        }
+    },
+    {
+        "ID": "2816115",
+        "title": "2816115",
+        "description": "2816115",
+        "price": null,
+        "attributes": {
+            "Pack Size": "40 oz",
+            "MRP `": "1,610"
+        }
+    },
+    {
+        "ID": "789064",
+        "title": "789064",
+        "description": "789064",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 g",
+            "MRP `": "11,192"
+        }
+    },
+    {
+        "ID": "235613",
+        "title": "235613",
+        "description": "235613",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 lb",
+            "MRP `": "15,047"
+        }
+    },
+    {
+        "ID": "680035",
+        "title": "680035",
+        "description": "680035",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "15,601"
+        }
+    },
+    {
+        "ID": "195826",
+        "title": "195826",
+        "description": "195826",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 g",
+            "MRP `": "9,955"
+        }
+    },
+    {
+        "ID": "1629741",
+        "title": "1629741",
+        "description": "1629741",
+        "price": null,
+        "attributes": {
+            "Pack Size": "400 g",
+            "MRP `": "1,897"
+        }
+    },
+    {
+        "ID": "680036",
+        "title": "680036",
+        "description": "680036",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 g",
+            "MRP `": "6,399"
+        }
+    },
+    {
+        "ID": "2651191",
+        "title": "2651191",
+        "description": "2651191",
+        "price": null,
+        "attributes": {
+            "Pack Size": "350 g",
+            "MRP `": "13,646"
+        }
+    },
+    {
+        "ID": "2651213",
+        "title": "2651213",
+        "description": "2651213",
+        "price": null,
+        "attributes": {
+            "Pack Size": "105 g",
+            "MRP `": "4,087"
+        }
+    },
+    {
+        "ID": "2102082",
+        "title": "2102082",
+        "description": "2102082",
+        "price": null,
+        "attributes": {
+            "Pack Size": "0.127 * 30 M",
+            "MRP `": "50,874"
+        }
+    },
+    {
+        "ID": "1602678",
+        "title": "1602678",
+        "description": "1602678",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "38,535"
+        }
+    },
+    {
+        "ID": "1890656",
+        "title": "1890656",
+        "description": "1890656",
+        "price": null,
+        "attributes": {
+            "Pack Size": "10 kg",
+            "MRP `": "58,850"
+        }
+    },
+    {
+        "ID": "2487458",
+        "title": "2487458",
+        "description": "2487458",
+        "price": null,
+        "attributes": {
+            "Pack Size": "715 g",
+            "MRP `": "8,700"
+        }
+    },
+    {
+        "ID": "2487457",
+        "title": "2487457",
+        "description": "2487457",
+        "price": null,
+        "attributes": {
+            "Pack Size": "285 g",
+            "MRP `": "3,722"
+        }
+    },
+    {
+        "ID": "2605167",
+        "title": "2605167",
+        "description": "2605167",
+        "price": null,
+        "attributes": {
+            "Pack Size": "858 g",
+            "MRP `": "12,560"
+        }
+    },
+    {
+        "ID": "2606196",
+        "title": "2606196",
+        "description": "2606196",
+        "price": null,
+        "attributes": {
+            "Pack Size": "142 g",
+            "MRP `": "2,237"
+        }
+    },
+    {
+        "ID": "680839",
+        "title": "680839",
+        "description": "680839",
+        "price": null,
+        "attributes": {
+            "Pack Size": "2 kg",
+            "MRP `": "21,171"
+        }
+    },
+    {
+        "ID": "679971",
+        "title": "679971",
+        "description": "679971",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "15,343"
+        }
+    },
+    {
+        "ID": "979698",
+        "title": "979698",
+        "description": "979698",
+        "price": null,
+        "attributes": {
+            "Pack Size": "10 kg",
+            "MRP `": "90,849"
+        }
+    },
+    {
+        "ID": "235631",
+        "title": "235631",
+        "description": "235631",
+        "price": null,
+        "attributes": {
+            "Pack Size": "25 lb",
+            "MRP `": "94,606"
+        }
+    },
+    {
+        "ID": "1400739",
+        "title": "1400739",
+        "description": "1400739",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "31,955"
+        }
+    },
+    {
+        "ID": "235615",
+        "title": "235615",
+        "description": "235615",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 lb",
+            "MRP `": "18,169"
+        }
+    },
+    {
+        "ID": "1304684",
+        "title": "1304684",
+        "description": "1304684",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "14,115"
+        }
+    },
+    {
+        "ID": "885175",
+        "title": "885175",
+        "description": "885175",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "33,597"
+        }
+    },
+    {
+        "ID": "1073830",
+        "title": "1073830",
+        "description": "1073830",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 kg",
+            "MRP `": "107,672"
+        }
+    },
+    {
+        "ID": "1400737",
+        "title": "1400737",
+        "description": "1400737",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "74,794"
+        }
+    },
+    {
+        "ID": "680038",
+        "title": "680038",
+        "description": "680038",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "16,805"
+        }
+    },
+    {
+        "ID": "1018430",
+        "title": "1018430",
+        "description": "1018430",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "74,363"
+        }
+    },
+    {
+        "ID": "1402022",
+        "title": "1402022",
+        "description": "1402022",
+        "price": null,
+        "attributes": {
+            "Pack Size": "10 kg",
+            "MRP `": "82,960"
+        }
+    },
+    {
+        "ID": "1324544",
+        "title": "1324544",
+        "description": "1324544",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 lb",
+            "MRP `": "62,706"
+        }
+    },
+    {
+        "ID": "2240637",
+        "title": "2240637",
+        "description": "2240637",
+        "price": null,
+        "attributes": {
+            "Pack Size": "10 kg",
+            "MRP `": "59,378"
+        }
+    },
+    {
+        "ID": "2108969",
+        "title": "2108969",
+        "description": "2108969",
+        "price": null,
+        "attributes": {
+            "Pack Size": "10 kg",
+            "MRP `": "10,511"
+        }
+    },
+    {
+        "ID": "1327836",
+        "title": "1327836",
+        "description": "1327836",
+        "price": null,
+        "attributes": {
+            "Pack Size": "25 lb",
+            "MRP `": "126,913"
+        }
+    },
+    {
+        "ID": "1710655",
+        "title": "1710655",
+        "description": "1710655",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "56,106"
+        }
+    },
+    {
+        "ID": "680037",
+        "title": "680037",
+        "description": "680037",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 kg",
+            "MRP `": "22,829"
+        }
+    },
+    {
+        "ID": "235573",
+        "title": "235573",
+        "description": "235573",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 gal",
+            "MRP `": "47,306"
+        }
+    },
+    {
+        "ID": "680838",
+        "title": "680838",
+        "description": "680838",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "16,605"
+        }
+    },
+    {
+        "ID": "1400736",
+        "title": "1400736",
+        "description": "1400736",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 kg",
+            "MRP `": "51,524"
+        }
+    },
+    {
+        "ID": "1324134",
+        "title": "1324134",
+        "description": "1324134",
+        "price": null,
+        "attributes": {
+            "Pack Size": "21.4 lb",
+            "MRP `": "31,525"
+        }
+    },
+    {
+        "ID": "235637",
+        "title": "235637",
+        "description": "235637",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 gal",
+            "MRP `": "92,857"
+        }
+    },
+    {
+        "ID": "1706385",
+        "title": "1706385",
+        "description": "1706385",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 kg",
+            "MRP `": "28,606"
+        }
+    },
+    {
+        "ID": "1480135",
+        "title": "1480135",
+        "description": "1480135",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 litre",
+            "MRP `": "70,890"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "BELT REPAIR & URETHANES": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "BELT REPAIR & URETHANES": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "233307",
+        "title": "233307",
+        "description": "233307",
+        "price": null,
+        "attributes": {
+            "Pack Size": "113.7 ml",
+            "MRP `": "7,420"
+        }
+    },
+    {
+        "ID": "226595",
+        "title": "226595",
+        "description": "226595",
+        "price": null,
+        "attributes": {
+            "Pack Size": "12 oz",
+            "MRP `": "1,573"
+        }
+    },
+    {
+        "ID": "209820",
+        "title": "209820",
+        "description": "209820",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 lb",
+            "MRP `": "23,202"
+        }
+    },
+    {
+        "ID": "209821",
+        "title": "209821",
+        "description": "209821",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 lb Kit",
+            "MRP `": "13,235"
+        }
+    },
+    {
+        "ID": "2084201",
+        "title": "2084201",
+        "description": "2084201",
+        "price": null,
+        "attributes": {
+            "Pack Size": "800 g",
+            "MRP `": "16,106"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "PROTECTIVE COATINGS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "PROTECTIVE COATINGS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "302669",
+        "title": "302669",
+        "description": "302669",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 ml",
+            "MRP `": "1,352"
+        }
+    },
+    {
+        "ID": "1786074",
+        "title": "1786074",
+        "description": "1786074",
+        "price": null,
+        "attributes": {
+            "Pack Size": "12 oz",
+            "MRP `": "3,594"
+        }
+    },
+    {
+        "ID": "209752",
+        "title": "209752",
+        "description": "209752",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "28,667"
+        }
+    },
+    {
+        "ID": "209750",
+        "title": "209750",
+        "description": "209750",
+        "price": null,
+        "attributes": {
+            "Pack Size": "12 oz",
+            "MRP `": "3,561"
+        }
+    },
+    {
+        "ID": "1649155",
+        "title": "1649155",
+        "description": "1649155",
+        "price": null,
+        "attributes": {
+            "Pack Size": "4 litre",
+            "MRP `": "7,140"
+        }
+    },
+    {
+        "ID": "160802",
+        "title": "160802",
+        "description": "160802",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "20,499"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "MOULD RELEASE AGENTS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "MOULD RELEASE AGENTS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "416032",
+        "title": "416032",
+        "description": "416032",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "14,287"
+        }
+    },
+    {
+        "ID": "420432",
+        "title": "420432",
+        "description": "420432",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "40,762"
+        }
+    },
+    {
+        "ID": "548976",
+        "title": "548976",
+        "description": "548976",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "20,811"
+        }
+    },
+    {
+        "ID": "420461",
+        "title": "420461",
+        "description": "420461",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 gal",
+            "MRP `": "13,179"
+        }
+    },
+    {
+        "ID": "1661893",
+        "title": "1661893",
+        "description": "1661893",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 litre",
+            "MRP `": "53,145"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "ANTI-SEIZE & LUBRICANTS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "ANTI-SEIZE & LUBRICANTS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "135543",
+        "title": "135543",
+        "description": "135543",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 lb",
+            "MRP `": "3,472"
+        }
+    },
+    {
+        "ID": "2096331",
+        "title": "2096331",
+        "description": "2096331",
+        "price": null,
+        "attributes": {
+            "Pack Size": "1 kg",
+            "MRP `": "2,635"
+        }
+    },
+    {
+        "ID": "209758",
+        "title": "209758",
+        "description": "209758",
+        "price": null,
+        "attributes": {
+            "Pack Size": "510 g",
+            "MRP `": "3,088"
+        }
+    },
+    {
+        "ID": "234290",
+        "title": "234290",
+        "description": "234290",
+        "price": null,
+        "attributes": {
+            "Pack Size": "2 lb",
+            "MRP `": "18,819"
+        }
+    },
+    {
+        "ID": "1024403",
+        "title": "1024403",
+        "description": "1024403",
+        "price": null,
+        "attributes": {
+            "Pack Size": "310 ml",
+            "MRP `": "2,725"
+        }
+    },
+    {
+        "ID": "833783",
+        "title": "833783",
+        "description": "833783",
+        "price": null,
+        "attributes": {
+            "Pack Size": "500 g",
+            "MRP `": "2,484"
+        }
+    },
+    {
+        "ID": "2756479",
+        "title": "2756479",
+        "description": "2756479",
+        "price": 444.0,
+        "attributes": {
+            "Pack Size": "400 ml",
+            "MRP `": "444"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "CLEANERS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "CLEANERS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "627004",
+        "title": "627004",
+        "description": "627004",
+        "price": 649.0,
+        "attributes": {
+            "Pack Size": "312 g",
+            "MRP `": "649"
+        }
+    },
+    {
+        "ID": "135544",
+        "title": "135544",
+        "description": "135544",
+        "price": null,
+        "attributes": {
+            "Pack Size": "18 oz",
+            "MRP `": "2,459"
+        }
+    },
+    {
+        "ID": "1727806",
+        "title": "1727806",
+        "description": "1727806",
+        "price": null,
+        "attributes": {
+            "Pack Size": "400 ml",
+            "MRP `": "1,039"
+        }
+    },
+    {
+        "ID": "849292",
+        "title": "849292",
+        "description": "849292",
+        "price": 847.0,
+        "attributes": {
+            "Pack Size": "100 ml",
+            "MRP `": "847"
+        }
+    },
+    {
+        "ID": "1423327",
+        "title": "1423327",
+        "description": "1423327",
+        "price": null,
+        "attributes": {
+            "Pack Size": "425 g",
+            "MRP `": "3,334"
+        }
+    },
+    {
+        "ID": "1423361",
+        "title": "1423361",
+        "description": "1423361",
+        "price": null,
+        "attributes": {
+            "Pack Size": "150 g",
+            "MRP `": "1,454"
+        }
+    },
+    {
+        "ID": "234941",
+        "title": "234941",
+        "description": "234941",
+        "price": null,
+        "attributes": {
+            "Pack Size": "19 oz",
+            "MRP `": "2,085"
+        }
+    },
+    {
+        "ID": "1174633",
+        "title": "1174633",
+        "description": "1174633",
+        "price": null,
+        "attributes": {
+            "Pack Size": "12 oz",
+            "MRP `": "5,094"
+        }
+    },
+    {
+        "ID": "789705",
+        "title": "789705",
+        "description": "789705",
+        "price": null,
+        "attributes": {
+            "Pack Size": "20 litre",
+            "MRP `": "22,623"
+        }
+    },
+    {
+        "ID": "789065",
+        "title": "789065",
+        "description": "789065",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 litre",
+            "MRP `": "6,873"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "SURFACE PREPARATION": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "SURFACE PREPARATION": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": "235638",
+        "title": "235638",
+        "description": "235638",
+        "price": null,
+        "attributes": {
+            "Pack Size": "85.2 ml"
+        }
+    },
+    {
+        "ID": "849293",
+        "title": "849293",
+        "description": "849293",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "1063860",
+        "title": "1063860",
+        "description": "1063860",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "2239855",
+        "title": "2239855",
+        "description": "2239855",
+        "price": 418.0,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "229848",
+        "title": "229848",
+        "description": "229848",
+        "price": null,
+        "attributes": {
+            "Pack Size": "946 ml"
+        }
+    },
+    {
+        "ID": "2792405",
+        "title": "2792405",
+        "description": "2792405",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "849296",
+        "title": "849296",
+        "description": "849296",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "849297",
+        "title": "849297",
+        "description": "849297",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "2787915",
+        "title": "2787915",
+        "description": "2787915",
+        "price": null,
+        "attributes": {
+            "Pack Size": "100 ml"
+        }
+    },
+    {
+        "ID": "1480162",
+        "title": "1480162",
+        "description": "1480162",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 litre"
+        }
+    },
+    {
+        "ID": "1480182",
+        "title": "1480182",
+        "description": "1480182",
+        "price": null,
+        "attributes": {
+            "Pack Size": "5 litre"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "OTHERS": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "OTHERS": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "Price List\nEffective from 01.07.2022": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "Price List\nEffective from 01.07.2022": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "TRAINING SERVICES": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "TRAINING SERVICES": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "ABAOBOUTU TH HENENKEKLEL": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "ABAOBOUTU TH HENENKEKLEL": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "DIDSICSLCALIAMIMERER": null,
+            "null": "None    \nNone    \nNone    \nNone    \nNone    \nName: 0, dtype: object"
+        }
+    },
+    {
+        "ID": null,
+        "title": "",
+        "description": "",
+        "price": null,
+        "attributes": {
+            "DIDSICSLCALIAMIMERER": null,
+            "null": "None    None\nNone    None\nNone    None\nNone    None\nNone    None\nName: 1, dtype: object"
+        }
+    }
+]
